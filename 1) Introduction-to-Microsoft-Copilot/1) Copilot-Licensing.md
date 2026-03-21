@@ -238,17 +238,3 @@ Provides a contextual and accurate summary
 - Copilot Chat is a separate web-based interface with limited capabilities without licensing
 
 ---
-
-## 8. Suggested Next Topics for AB-730
-
-To continue preparation, focus on:
-
-- Copilot Studio
-- Agents and agent orchestration
-- Topics vs triggers
-- Event-driven automation
-- Security and compliance (Microsoft Purview)
-- Data governance and access control
-- Microsoft Graph integration
-
----
