@@ -193,16 +193,5 @@ The Prompt Coach agent can:
 
 ---
 
-## 10. Key Takeaways
-
-- Structured prompts produce more accurate and useful outputs
-- Always define:
-  - What (Goal)
-  - Why (Context)
-  - How (Expectations)
-  - Using What (Source)
-- Avoid vague or overly broad prompts
-- Use formatting to improve clarity
-- Leverage Prompt Coach for optimization
 
 ---
