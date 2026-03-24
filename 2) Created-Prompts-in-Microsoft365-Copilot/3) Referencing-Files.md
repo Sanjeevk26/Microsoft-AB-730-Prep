@@ -196,13 +196,3 @@ Example:
 - Combine prompts with clear instructions
 
 ---
-
-## 13. Key Takeaways
-
-- Copilot can reference multiple resource types within prompts
-- Access is governed by user permissions
-- File uploads and OneDrive integration enhance grounding
-- Indexing and caching may affect real-time accuracy
-- Proper document management improves results
-
----
