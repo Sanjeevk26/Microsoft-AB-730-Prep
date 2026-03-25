@@ -143,14 +143,3 @@ This allows integration beyond Microsoft 365.
 - Organizational security, compliance, and privacy policies are maintained
 
 ---
-
-## 10. Key Takeaways
-
-- Context significantly influences Copilot responses
-- Conversation history allows implicit continuation of queries
-- Work files provide organization-specific grounding
-- Web data supports general knowledge queries
-- Open documents provide immediate contextual data
-- Microsoft Graph enables secure and permission-based data access
-
----
