@@ -182,13 +182,3 @@ Policies can:
 - They control retention, not direct deletion
 
 ---
-
-## 11. Key Takeaways
-
-- Conversations can be viewed, searched, renamed, and deleted within Copilot
-- Temporary chats are not stored in history
-- Activity history can be managed via Microsoft account settings
-- Business users have restricted data export capabilities
-- Retention and compliance are controlled by administrators via policies
-
----
