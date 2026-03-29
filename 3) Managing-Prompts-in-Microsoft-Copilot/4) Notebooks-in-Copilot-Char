@@ -1,0 +1,208 @@
+# Using Notebooks in Microsoft 365 Copilot
+
+## 1. Overview
+
+Notebooks in Microsoft 365 Copilot provide a secure workspace to gather, organize, and analyze multiple data sources for use across prompts.
+
+They are designed for:
+- Working with multiple documents
+- Combining chats and files
+- Generating insights and summaries
+- Supporting repeated prompt usage
+
+---
+
+## 2. Creating a Notebook
+
+### Steps:
+
+1. Go to **Notebooks** (left panel)
+2. Click **New Notebook**
+3. Provide a name (e.g., "AB 730 Notebook")
+4. Add references (files, links, or communications)
+5. Click **Create**
+
+---
+
+## 3. Adding Content to Notebooks
+
+### 3.1 File References
+
+You can add:
+
+- Files from device
+- Cloud files (OneDrive, SharePoint)
+- Links
+- Drag-and-drop files
+
+---
+
+### 3.2 Supported File Types
+
+- Word documents (DOCX)
+- Excel spreadsheets (XLSX)
+- PowerPoint presentations (PPTX)
+- PDF files
+- Loop files
+- Page files
+- OneNote pages
+
+---
+
+### 3.3 Reference Limit
+
+- Only the **first 100 references** are used for grounding
+
+---
+
+## 4. Adding Conversations to Notebooks
+
+### Method 1: Drag and Drop
+
+- Drag a conversation into the notebook
+
+---
+
+### Method 2: Add via Menu
+
+1. Click **three dots (ellipsis)** next to a conversation
+2. Select **Add to Notebook**
+3. Choose the target notebook
+
+---
+
+### Managing Conversations in Notebook
+
+Options available:
+- Open chat
+- Rename chat
+- Delete chat
+- Remove from notebook
+
+---
+
+## 5. Using Notebooks
+
+Once content is added, you can:
+
+- Ask questions across multiple files and chats
+- Generate insights from combined data
+- Create summaries and drafts
+
+### Example
+
+"What is the AB 840 exam called?"
+
+- Copilot uses notebook references to generate the answer
+
+---
+
+## 6. Temporary vs Notebook References
+
+### Temporary References
+
+- Added using:
+  - Upload files
+  - Attach work content
+- Used for a single prompt only
+
+---
+
+### Notebook References
+
+- Persist across multiple prompts
+- Provide consistent context
+
+---
+
+## 7. Copilot Instructions in Notebooks
+
+You can define how Copilot should respond within a notebook.
+
+Examples:
+
+- Focus on specific topics
+- Use a professional tone
+- Format responses as bullet points
+
+These instructions apply only within the notebook.
+
+---
+
+## 8. Audio Summaries
+
+Notebooks support generating audio summaries.
+
+### Features:
+
+- Format options:
+  - Single speaker
+  - Two speakers
+  - Dialogue style
+
+- Customization:
+  - Voice selection
+  - Style
+  - Duration
+
+---
+
+### Use Case
+
+- Summarizing documents
+- Creating narrated insights
+- Reviewing content in audio format
+
+---
+
+## 9. Notebook History
+
+- Notebooks maintain history of:
+  - Added files
+  - Conversations
+  - Generated outputs
+
+---
+
+## 10. Use Cases
+
+Notebooks can be used for:
+
+- Quarterly forecasting
+- Support analysis
+- Strategy development
+- Research and onboarding
+- Content generation
+
+---
+
+## 11. Notebooks vs Pages
+
+| Feature        | Notebooks                          | Pages                           |
+|----------------|------------------------------------|----------------------------------|
+| Purpose        | Context aggregation                | Editable document                |
+| Input Sources  | Multiple files and chats           | Copilot-generated responses      |
+| Usage          | Research and insights              | Drafting and editing             |
+| Output         | Responses                          | Structured editable content      |
+
+---
+
+## 12. Best Practices
+
+- Use notebooks for multi-source analysis
+- Keep references organized and relevant
+- Limit number of references for better performance
+- Use instructions to guide response quality
+- Combine chats and documents for richer insights
+
+---
+
+## 13. Key Takeaways
+
+- Notebooks provide a centralized workspace for prompts
+- Support multiple files and conversations
+- Enable persistent context across prompts
+- Improve response accuracy through grounding
+- Allow customization via instructions and audio summaries
+
+---
