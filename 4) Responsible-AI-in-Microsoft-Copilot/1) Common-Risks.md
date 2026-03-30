@@ -224,13 +224,3 @@ Examples:
 | Inadequate Auditing          | Lack of traceability and accountability |
 
 ---
-
-## 11. Key Takeaways
-
-- AI responses should always be verified
-- Avoid blind trust in automated outputs
-- Be aware of prompt manipulation risks
-- Ensure proper access controls and data governance
-- Maintain strong auditing and monitoring practices
-
----
