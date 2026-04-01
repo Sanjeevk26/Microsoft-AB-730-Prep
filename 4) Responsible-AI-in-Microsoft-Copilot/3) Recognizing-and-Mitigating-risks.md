@@ -230,14 +230,3 @@ Sensitive data risks include:
 
 ---
 
-## 8. Key Takeaways
-
-- Sensitive data includes PII, financial, medical, and system information
-- Use Microsoft Purview to identify and classify data
-- Apply RBAC and least privilege principles
-- Monitor and audit data access regularly
-- Prevent data leakage through DLP policies
-- Segment and secure data storage
-- Train users on responsible data handling
-
----
