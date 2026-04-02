@@ -113,14 +113,3 @@ Data protection restricts Copilot responses through:
 - Encryption and security controls
 
 ---
-
-## 6. Key Takeaways
-
-- Copilot operates under enterprise data protection
-- Data is encrypted at rest and in transit
-- User permissions directly control data access
-- Copilot cannot access unauthorized data
-- Sensitivity labels enforce additional restrictions
-- Proper access management is critical to prevent data exposure
-
----
