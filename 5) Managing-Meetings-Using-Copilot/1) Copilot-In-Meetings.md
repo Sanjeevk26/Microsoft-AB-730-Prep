@@ -207,13 +207,3 @@ Copilot can generate an audio summary of meetings.
 - Post-meeting documentation
 
 ---
-
-## 11. Key Takeaways
-
-- Copilot enhances meetings through real-time insights
-- Transcription is required for Copilot functionality
-- Users can summarize, analyze, and extend meetings using prompts
-- Post-meeting recap provides structured insights
-- Audio recap enables flexible content consumption
-
----
