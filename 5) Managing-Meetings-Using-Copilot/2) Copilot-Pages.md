@@ -197,13 +197,3 @@ Pages can be accessed via:
 - Combine multiple responses into a single page when needed
 
 ---
-
-## 13. Key Takeaways
-
-- Pages are interactive and collaborative workspaces
-- Allow editing and refinement of Copilot responses
-- Support sharing, exporting, and embedding
-- Enable real-time collaboration
-- Can be integrated with notebooks for extended workflows
-
----
