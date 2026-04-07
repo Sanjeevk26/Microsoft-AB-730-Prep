@@ -330,13 +330,3 @@ These are in public preview.
 - Validate outputs from agents
 
 ---
-
-## 13. Key Takeaways
-
-- Agents extend Copilot beyond simple chat
-- Provide structured, reusable AI workflows
-- Can integrate with data, tools, and automation
-- Pre-built agents offer immediate value
-- Advanced scenarios require Copilot Studio Full
-
----
