@@ -196,13 +196,3 @@ Am I allowed to listen to music while on business?"
 - Regularly update and refine the agent
 
 ---
-
-## 11. Key Takeaways
-
-- Agents should be tested in draft mode before publishing
-- Creation makes the agent available for sharing
-- Sharing enables reuse across the organization
-- Permissions control data visibility
-- Agents can be used directly within chat using @ or +
-
----
