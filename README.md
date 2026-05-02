@@ -193,11 +193,3 @@ After going through this repository, you will be able to:
 
 ---
 
-## Target Audience
-
-- Power Platform and Microsoft 365 professionals  
-- Solution architects and consultants  
-- AI and automation practitioners  
-- AB-730 certification candidates  
-
----
